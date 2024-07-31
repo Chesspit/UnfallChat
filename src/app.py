@@ -167,7 +167,7 @@ chatbot_card = dbc.Card(
         ),
         dbc.Textarea(
             id="question",
-            placeholder=' FRAGE hier! ',
+            placeholder=' FRAGE hier! zB "Welche Attribute enthält der Datensatz" ',
             style={"margin-bottom": "1rem", "height": "30px"}
         ),
         dbc.Textarea(
