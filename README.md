@@ -4,6 +4,9 @@
 
 Diese App basiert auf dem "Open-Source-Framework" Dash und einem auf der Open-Data-Platform des Kantons St. Gallen verfügbaren Datensatz. Sie ist eine Erweiterung der bereits bestehenden App "Unfallorte in St. Gallen" um die Möglichkeit, 
 in einem Chatfenster Fragen zum Datensatz zu stellen. Die Realisierung erfolgte mittels der PandaQueryEngine von LlamaIndex.
+
+---
+
 ![Unfallchat](Unfallchat_gh.png)
 
 ---
